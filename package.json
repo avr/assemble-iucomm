@@ -1,0 +1,19 @@
+{
+  "name": "assemble-iucomm",
+  "version": "1.0.0",
+  "description": "Provides middleware and helpers for IUComm's implementation of Assemble",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:avr/assemble-iucomm.git"
+  },
+  "author": "avr@iu.edu",
+  "dependencies": {
+    "path": "^0.11.14",
+    "expander": "^0.3.3",
+    "lodash.merge": "^3.3.2"
+  }
+}
